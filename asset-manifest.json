@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/laboure/static/css/main.3378e607.css",
-    "main.js": "/laboure/static/js/main.008ab474.js",
-    "static/media/img2.png": "/laboure/static/media/img2.d773b5289123fe63168c.png",
+    "main.css": "/laboure/static/css/main.e464fff7.css",
+    "main.js": "/laboure/static/js/main.009aaaee.js",
+    "static/media/img5.jpeg": "/laboure/static/media/img5.3c50e658a5f22a38e354.jpeg",
     "static/media/bootstrap-icons.woff?": "/laboure/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/laboure/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/laboure/index.html",
-    "main.3378e607.css.map": "/laboure/static/css/main.3378e607.css.map",
-    "main.008ab474.js.map": "/laboure/static/js/main.008ab474.js.map"
+    "main.e464fff7.css.map": "/laboure/static/css/main.e464fff7.css.map",
+    "main.009aaaee.js.map": "/laboure/static/js/main.009aaaee.js.map"
   },
   "entrypoints": [
-    "static/css/main.3378e607.css",
-    "static/js/main.008ab474.js"
+    "static/css/main.e464fff7.css",
+    "static/js/main.009aaaee.js"
   ]
 }
